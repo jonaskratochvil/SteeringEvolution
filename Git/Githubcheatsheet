@@ -5,4 +5,18 @@ From VScode
 2) From github create repo, create a new file, put readme on -> commit -> edit, save and see changes in history.
 
 3) branching - by default everything is on a master (root of a tree), but I can switch to another branch by creating is 
-   under insights and network we can see the graph of our tree
+   under insights and network we can see the graph of our tree 
+   
+4) when I have different branches I can merge them together (merge button) 
+
+5) To fork a repository means take someone elses repository a put it into your account - you don't have to ask
+   permitions when doing changes etc.
+   Pull request is when I come up with someting I really like while working on fork and want the original creator to 
+   merge it with the main master
+   
+6) Issues - you can ask questions about things in a project/report bugs/typos, etc.
+
+7) Cloning is action of taking a repository from the internet a "downloading" it into your computer
+   just type: git clone "url goes here"
+   git status tells me the status...
+   push is act of sending to github, pull is act of getting from github
