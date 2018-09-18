@@ -1,0 +1,7 @@
+From VScode
+1) Initialize repository on Github -> follow the instructions (git init ve slozce -> ve vscode commit all -> git remote blabla 
+   -> git remote push (?))
+   
+2) From github create repo, create a new file, put readme on -> commit -> edit, save and see changes in history.
+
+3) branching - by default everything is on a master (root of a tree), but I can switch to another branch by creating is 
