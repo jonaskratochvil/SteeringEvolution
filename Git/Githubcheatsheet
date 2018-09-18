@@ -5,3 +5,4 @@ From VScode
 2) From github create repo, create a new file, put readme on -> commit -> edit, save and see changes in history.
 
 3) branching - by default everything is on a master (root of a tree), but I can switch to another branch by creating is 
+   under insights and network we can see the graph of our tree
